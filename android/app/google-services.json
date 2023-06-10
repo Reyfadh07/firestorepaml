@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560794826201",
+    "project_id": "mobilelanjut-320f8",
+    "storage_bucket": "mobilelanjut-320f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560794826201:android:6706de3f45f54260dcd5c8",
+        "android_client_info": {
+          "package_name": "com.example.firestorepaml"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6LgAKJrn8AAPPoqdyRahxNfPc677grW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
