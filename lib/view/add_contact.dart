@@ -1,4 +1,4 @@
-import 'package:firestorepaml/contact_model.dart';
+import 'package:firestorepaml/model/contact_model.dart';
 import 'package:firestorepaml/controller/contact_controller.dart';
 import 'package:firestorepaml/view/contact.dart';
 import 'package:flutter/material.dart';

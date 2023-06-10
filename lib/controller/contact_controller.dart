@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:firestorepaml/contact_model.dart';
+import 'package:firestorepaml/model/contact_model.dart';
 
 class ContactController {
   final contactcollection = FirebaseFirestore.instance.collection('contacts');
